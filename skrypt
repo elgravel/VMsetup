@@ -1,0 +1,17 @@
+
+#git config
+
+#git config --global user.name "Rafal Malanij"
+#git config --global user.email malanij@gmail.com
+
+#git remote add origin git@github.com:elgravel/zsi-bio-page.git 
+#git remote add upstream git@github.com:ZSI-Bio/zsi-bio-page.git 
+
+#cd Projekty
+#git fetch origin
+
+#sudo apt-get purge openjdk*
+#sudo add-apt-repository ppa:webupd8team/java
+#sudo apt-get update
+#sudo apt-get install oracle-java8-installer
+
