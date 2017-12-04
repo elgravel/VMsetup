@@ -13,6 +13,11 @@
 git checkout -b "coverage_mapq"  
 git push --set-upstream origin coverage_mapq  
 
+#get update from master
+git checkout master
+git pull upstream
+
+
 #sync fork with master  
 git fetch upstream  
 git checkout master  
