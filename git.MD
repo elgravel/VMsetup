@@ -5,11 +5,12 @@
     git remote add upstream git@github.com:ZSI-Bio/zsi-bio-page.git
 
 
-#git pull origin  
-#git status  
-#git add  
-#git commit -m "text"  
-#git push   
+# typical command flow
+    git pull origin  
+    git status  
+    git add  
+    git commit -m "text"  
+    git push   
 
 
 # start a new change
