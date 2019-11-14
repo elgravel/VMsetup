@@ -15,8 +15,10 @@
 
 # start a new change
 
-    git checkout -b "coverage_mapq"  
-    git push --set-upstream origin coverage_mapq  
+    git checkout -b "coverage_mapq" 
+    git add .
+    git commit -m "tekst"
+    git push origin coverage_mapq  
 
 # get update from master
 
